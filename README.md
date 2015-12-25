@@ -7,7 +7,7 @@
 
 Zorin OS 9 - Compile Linux Core v 4.3.3
 ---------------------------------------
-*в самом начале требуется установить дополнительные пакеты:
+* в самом начале требуется установить дополнительные пакеты:
 	sudo apt-get update
 	sudo apt-get build-dep linux
 	sudo apt-get install kernel-package
