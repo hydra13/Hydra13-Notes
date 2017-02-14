@@ -12,3 +12,6 @@ windeployqt C:\pathToYourProgram\programName.exe
 
 ### источник:
 [Документация Qt5](http://doc.qt.io/qt-5/windows-deployment.html)
+
+----------------------
+[назад](../README.md)
