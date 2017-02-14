@@ -10,6 +10,7 @@
 ----------
 ####Linux
 - [Zorin OS 9 сборка ванильного ядра версии 4.3.3](linux/zorin-update-core.md)
+- [Использование Uncomplicated Firewall (ufw)](linux/using-ufw.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
