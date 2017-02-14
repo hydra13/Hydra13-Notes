@@ -13,7 +13,7 @@
 - [Использование Uncomplicated Firewall (ufw)](linux/using-ufw.md)
 - [Монтирование папки удаленной Windows системы](linux/mount-lan-windows-machines.md)
 - [Создание ISO образа CD/DVD](linux/create-iso.md)
-- [Создание ISO образа CD/DVD](linux/calculate-md5-dvd.md)
+- [Подсчет MD5 для CD/DVD](linux/calculate-md5-dvd.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
