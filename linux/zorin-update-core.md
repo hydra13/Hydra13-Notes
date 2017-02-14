@@ -65,3 +65,4 @@ Zorin OS 9 - Compile Linux Core v 4.3.3
 
 Всем добра! :)
 ______________
+[назад](../README.md)
