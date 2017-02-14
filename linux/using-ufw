@@ -1,7 +1,0 @@
-использование Uncomplicated Firewall (ufw):
--------------------------------------------
-
-*sudo ufw allow from 192.168.25.0/24 #разрешаем входящий трафик с 27-й подсети*
-*sudo ufw deny from any to any #запрещаем остальной трафик*
-*sudo ufw enable*
-*sudo ufw status*
