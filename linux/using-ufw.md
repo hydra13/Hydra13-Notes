@@ -1,4 +1,4 @@
-# использование Uncomplicated Firewall (ufw):
+# Использование Uncomplicated Firewall (ufw)
 
 > Автор не несет никакой ответственности за ваши действия/бездействия!
 
