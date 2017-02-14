@@ -11,7 +11,7 @@
 ####Linux
 - [Zorin OS 9 сборка ванильного ядра версии 4.3.3](linux/zorin-update-core.md)
 - [Использование Uncomplicated Firewall (ufw)](linux/using-ufw.md)
-- [Монтирование](linux/mount-lan-windows-machines.md)
+- [Монтирование папки удаленной Windows системы](linux/mount-lan-windows-machines.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
