@@ -19,4 +19,4 @@
 ```
 	sudo ufw status
 ```
-[назад](README.md)
+[назад](../README.md)
