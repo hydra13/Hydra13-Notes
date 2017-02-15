@@ -16,6 +16,7 @@
 - [Подсчет MD5 для CD/DVD](linux/calculate-md5-dvd.md)
 - [Резервные копии списка пакетов dpkg](linux/dpkg-backup.md)
 - [Установка даты и времени с терминала](linux/set-date-from-term.md)
+- [Установка даты и времени с терминала](linux/debian-proxy.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
