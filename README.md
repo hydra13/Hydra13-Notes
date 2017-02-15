@@ -15,7 +15,7 @@
 - [Создание ISO образа CD/DVD](linux/create-iso.md)
 - [Подсчет MD5 для CD/DVD](linux/calculate-md5-dvd.md)
 - [Резервные копии списка пакетов dpkg](linux/dpkg-backup.md)
-- [Резервные копии списка пакетов dpkg](linux/set-date-from-term.md)
+- [Установка даты и времени с терминала](linux/set-date-from-term.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
