@@ -1,4 +1,4 @@
-#Коннестим переопределенные функции
+#Коннектим переопределенные функции
 ```
 	connect(ui->comboBox,
 			static_cast<void (QComboBox::*)(int)>(&QComboBox::currentIndexChanged), 
