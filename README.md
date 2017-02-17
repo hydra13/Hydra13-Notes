@@ -20,3 +20,4 @@
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
+- [22](qt/connect-qverdrive-functions.md)
