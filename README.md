@@ -20,4 +20,4 @@
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
-- [Коннектим переопределенные функции](qt/connect-qverdrive-functions.md)
+- [Коннектим переопределенные функции](qt/connect-overdrive-functions.md)
