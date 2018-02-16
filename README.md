@@ -17,6 +17,7 @@
 - [Резервные копии списка пакетов dpkg](linux/dpkg-backup.md)
 - [Установка даты и времени с терминала](linux/set-date-from-term.md)
 - [Задание настроек прокси-сервера в Debian](linux/debian-proxy.md)
+- [Установка дополнений гостевой ОС в VirtualBox](linux/install-addition-guest-vbox.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
