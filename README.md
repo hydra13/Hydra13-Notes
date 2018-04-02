@@ -18,7 +18,13 @@
 - [Установка даты и времени с терминала](linux/set-date-from-term.md)
 - [Задание настроек прокси-сервера в Debian](linux/debian-proxy.md)
 - [Установка дополнений гостевой ОС в VirtualBox](linux/install-addition-guest-vbox.md)
+- [Управление версиями Java в Ubuntu](linux/ubuntu-change-java-version-for-use.md)
 
 ####Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
 - [Коннектим переопределенные функции](qt/connect-overdrive-functions.md)
+
+####VirtualBox
+- [Изменение размера HDD виртуальной машины](virtual-box/resize-vdi.md)
+
+> Автор не несет никакой ответственности за ваши действия/бездействия!
