@@ -3,7 +3,7 @@
 ---------------------------------------
 * сначала обновляемся:
 ```
-	sudo usermod -a -G group user
+	sudo usermod -a -G vboxsf user
 ```
 
 --------------------
