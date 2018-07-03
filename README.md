@@ -36,5 +36,9 @@
 1. Классы
 	- [Без конструкторов](cpp/init-types/classes/without-const.md)
 	- [C конструкторами](cpp/init-types/classes/with-const.md)
+2. Коллекции
+	- [Массивы](cpp/init-types/collections/arrays.md)
+	- [Множества](cpp/init-types/collections/sets.md)
+	- [Словари](cpp/init-types/collections/maps.md)
 
 > Автор не несет никакой ответственности за ваши действия/бездействия!
