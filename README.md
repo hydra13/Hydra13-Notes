@@ -32,7 +32,7 @@
 - [Делаем из фотографии рисунок](photoshop/photo_to_painting.md)
 
 ####C++
-Инициализация типов:
+...Инициализация типов:
 1. Классы
 	- [Без конструкторов](cpp/init-types/classes/without-const.md)
 	- [C конструкторами](cpp/init-types/classes/with-const.md)
