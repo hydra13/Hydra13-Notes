@@ -8,7 +8,7 @@
 
 Содержание
 ----------
-####Linux
+#### Linux
 - [Zorin OS 9 сборка ванильного ядра версии 4.3.3](linux/zorin-update-core.md)
 - [Использование Uncomplicated Firewall (ufw)](linux/using-ufw.md)
 - [Монтирование папки удаленной Windows системы](linux/mount-lan-windows-machines.md)
@@ -20,19 +20,19 @@
 - [Установка дополнений гостевой ОС в VirtualBox](linux/install-addition-guest-vbox.md)
 - [Управление версиями Java в Ubuntu](linux/ubuntu-change-java-version-for-use.md)
 
-####Qt
+#### Qt
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
 - [Коннектим переопределенные функции](qt/connect-overdrive-functions.md)
 
-####VirtualBox
+#### VirtualBox
 - [Изменение размера HDD виртуальной машины](virtual-box/resize-vdi.md)
 - [Добавление пользователя в группу vboxsf для доступа к расшаренным папкам ](virtual-box/add-user-to-vbox-group.md)
 
-####Photoshop
+#### Photoshop
 - [Делаем из фотографии рисунок](photoshop/photo_to_painting.md)
 
-####C++
-...Инициализация типов:
+#### C++
+Инициализация типов:
 1. Классы
 	- [Без конструкторов](cpp/init-types/classes/without-const.md)
 	- [C конструкторами](cpp/init-types/classes/with-const.md)
