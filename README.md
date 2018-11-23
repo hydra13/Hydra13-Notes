@@ -25,7 +25,8 @@
 - [Коннектим переопределенные функции](qt/connect-overdrive-functions.md)
 
 #### VirtualBox
-- [Изменение размера HDD виртуальной машины](virtual-box/resize-vdi.md)
+- [Изменение размера HDD (VDI) виртуальной машины](virtual-box/resize-vdi.md)
+- [Изменение размера HDD (VMDK) виртуальной машины](virtual-box/resize-vmdk.md)
 - [Добавление пользователя в группу vboxsf для доступа к расшаренным папкам ](virtual-box/add-user-to-vbox-group.md)
 
 #### Photoshop
