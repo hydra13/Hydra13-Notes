@@ -27,6 +27,7 @@ _Эти заметки предназначены для создания лич
 
 - [Утилита Qt для сборки библиотек, необходимых для работы приложения](qt/windeployqt.md)
 - [Коннектим переопределенные функции](qt/connect-overdrive-functions.md)
+- [Добавляем старые версии в Qt Maintenance Tool](qt/qt-repo.md)
 
 #### VirtualBox
 
